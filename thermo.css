@@ -1,0 +1,17 @@
+
+      body {
+        background-color: rgb(25, 145, 209);
+        height: 100vh;
+        width: 100vw;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      h1 {
+        color: white;
+        font-size: 10vh;
+        display: inline-block;
+      }
+      .container h1 i {
+        height: 50vh;
+      }
